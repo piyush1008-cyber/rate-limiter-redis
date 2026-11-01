@@ -1,11 +1,12 @@
 # ⏱️ High-Performance Distributed Rate Limiter & FastAPI Middleware
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![System Design](https://img.shields.io/badge/Pattern-Sliding%20Window%20%26%20Token%20Bucket-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen?style=for-the-badge&logo=pytest&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![CI](https://github.com/piyush1008-cyber/rate-limiter-redis/actions/workflows/ci.yml/badge.svg)](https://github.com/piyush1008-cyber/rate-limiter-redis/actions)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=flat&logo=fastapi&logoColor=white)
+![System Design](https://img.shields.io/badge/Pattern-Sliding%20Window%20%26%20Token%20Bucket-orange?style=flat)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat&logo=docker&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat&logo=pytest&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 > **A production-ready API Rate Limiting engine implementing Sliding Window Log and Token Bucket algorithms with zero-overhead FastAPI middleware and standard HTTP 429 telemetry headers.**
 
